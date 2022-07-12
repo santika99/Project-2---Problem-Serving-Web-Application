@@ -1,0 +1,107 @@
+[
+ {:soal
+  {:soal-text "\n<p>\n  I _______ every weekend.\n</p>\n\n",
+   :options
+   [[true "teach the class " 0]
+    [false "teachs the class " 1]
+    [false "teaches the class " 2]
+    [false "am teaching the class" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every weekend jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk teach the class.\n</p>",
+  :template-id "8ade3ab0406011eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "5690e331468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text "\n<p>\n  Hate artinya apa sih?\n</p>\n\n",
+   :options
+   [[true "Benci " 0]
+    [false "Suka " 1]
+    [false "Mau " 2]
+    [false "Lebih suka" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Artinya HATE tuh BENCI ya! \n</p>",
+  :template-id "8ade3ab0406011eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "5690e331468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text "\n<p>\n  Like artinya apa sih?\n</p>\n\n",
+   :options
+   [[false "Benci " 0]
+    [true "Suka " 1]
+    [false "Mau " 2]
+    [false "Lebih suka" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Artinya LIKE tuh SUKA ya! \n</p>",
+  :template-id "8ade3ab0406011eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "5690e331468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text "\n<p>\n  Bahasa Inggrisnya Gunung apa sih?\n</p>\n\n",
+   :options
+   [[false "valley " 0]
+    [true "Mountain " 1]
+    [false "Florest " 2]
+    [false "Lake" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Bahasa Inggrisnya GUNUNG itu MOUNTAIN ya! \n</p>",
+  :template-id "8ade3ab0406011eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "5690e331468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text "\n<p>\n  Cloudy artinya apa sih?\n</p>\n\n",
+   :options
+   [[false "Cerah " 0]
+    [false "Mendung " 1]
+    [true "Berawan " 2]
+    [false "Terik" 3]],
+   :jawaban "c"},
+  :bahas
+  "\n\n<p>\n Artinya CLOUDY tuh BERAWAN ya! \n</p>",
+  :template-id "8ade3ab0406011eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "5690e331468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text "\n<p>\n  Mana sih pasangan yang tepat?\n</p>\n\n",
+   :options
+   [[false "Most of - sejumlah kecil " 0]
+    [false "Most of - setiap " 1]
+    [true "Most of - kebanyakan " 2]
+    [false "Most of - tidak banyak" 3]],
+   :jawaban "c"},
+  :bahas
+  "\n\n<p>\n Nah, yang bener itu pasangan most of - kebanyakan ! \n</p>",
+  :template-id "8ade3ab0406011eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "5690e331468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text "\n<p>\n  ___ His scissors ___ yesterday? \n</p>\n\n",
+   :options
+   [[false "were; listing " 0]
+    [false "was; listed " 1]
+    [true "Were; missing " 2]
+    [false "was; selling" 3]],
+   :jawaban "c"},
+  :bahas
+  "\n\n<p>\n Ketika menggunakan plural nouns, kata kerja yang tepat adalah yang sesuai dengan bentuk jamak, yaitu are untuk present tense. 
+   <br>\n untuk kalimat tanya, polanya gini ya : were + plural noun(as subject) +V3 \n</p>",
+  :template-id "8ade3ab0406011eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "5690e331468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text "\n<p>\n  Danau bahasa inggrisnya apa sih?\n</p>\n\n",
+   :options
+   [[false "Island " 0]
+    [false "River " 1]
+    [false "Valley " 2]
+    [true "Lake" 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Bahasa Inggrisnya DANAU itu LAKE ya! \n</p>",
+  :template-id "8ade3ab0406011eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "5690e331468611eba53b81e59324e143"}
+]

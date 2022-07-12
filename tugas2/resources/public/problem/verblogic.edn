@@ -1,0 +1,158 @@
+[
+{:soal
+ {:soal-text
+  "\n<p>\n\n Berikut adalah persyaratan untuk diterima di UGM: 
+   <br>\n setia dan takut badut atau 
+   <br>\n tulus dan jago bikin meme 
+   <br>\n Jika Melati takut badut dan tulus, 
+   <br>\n maka Melati memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[false "Valid " 0] 
+            [true " Tidak valid" 1]],
+  :jawaban "B"},
+ :bahas
+ "\n\n<p>\n  Jadi, di persyaratannya kita bisa liat bahwa untuk diterima di UGM, 
+  <br>\n  suatu entitas harus memenuhi seenggaknya salah satu di antara dua kondisi ini: 
+  <br>\n  1. Dia setia dan takut badut. Dua-duanya harus terpenuhi nih. 
+  <br>\n  ATAU 
+  <br>\n  2. Dia tulus dan jago bikin meme. Ini juga sama, dua-duanya harus terpenuhi. 
+  <br>\n  Nah, diketahui bahwa Melati takut badut dan tulus. 
+  <br>\n  Artinya, Melati gak memenuhi syarat 1 maupun syarat 2. Maka itu, kesimpulan yang benar 
+  <br>\n  adalah Melati tidak memenuhi persyaratan.\n</p>\n",
+ :template-id "d2826da0448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "570b1c66468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n\n Diketehui: <br>\n Ada baju yang pecah <br><br>\n Yang ekuivalen dengan pernyataan tersebut adalah..."
+  :options [[true "Ada yang pecah yang adalah baju" 0]
+            [false "Tidak dapat ditentukan" 1]],
+  :jawaban "A"},
+ :bahas
+ "\n\n<p>\n Konsep ekuivalensi itu gini: 
+   sebuah premis yang ekuivalien dengan permis lain adalah yang nilai kebenarannya pasti sejalan.
+   <br>\n Jika premis x benar, pasti premis yang ekuivalen dengannya juga benar bisa juga diangggap sebagai kalimat semakna namun beda struktur.
+   <br>\n So, balik kesoal nih..
+   Kita dapat informasi, ada baju yang pecah. Mana kondisi yang kalo informasinya benar PASTI benar? Ya ada yang pecah yang adalah baju dong.
+   \n<p>\n\n",
+ :template-id "d2826da0448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "570b1c66468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk menjadi kaya: 
+   <br>\n  jago matematika dan tidak pernah sen kanan belok kiri. 
+   <br>\n  Jika Unyil jago matematika, maka Unyil memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[false "Valid" 0] [true "Tidak valid " 1]],
+  :jawaban "B"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. 
+  <br>\nNah itu artinya, kalo mau menjadi kaya, suatu entitas harus 
+  <br>\njago matematika dan harus tidak pernah sen kanan belok kiri. Dua-duanya harus terpenuhi. 
+  <br>\nDi infonya kita tau bahwa Unyil baru memenuhi salah satunya doang. 
+  <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. 
+  <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Unyil memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e1468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n\nBerikut adalah persyaratan untuk menjual bakso: 
+   <br>\npunya becak dan berkaki lima atau 
+   <br>\ntulus dan sedikit bandel <br>\nJika Pejantan Tangguh berkaki lima dan tulus, 
+   <br>\nmaka Pejantan Tangguh memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[true " Tidak valid" 0] [false "Valid " 1]],
+  :jawaban "A"},
+ :bahas
+ "\n\n<p>\n  Jadi, di persyaratannya kita bisa liat bahwa untuk menjual bakso, 
+  <br>\n  suatu entitas harus memenuhi seenggaknya salah satu di antara dua kondisi ini:
+  <br>\n  1. Dia punya becak dan berkaki lima. Dua-duanya harus terpenuhi nih. <br>\n  ATAU 
+  <br>\n  2. Dia tulus dan sedikit bandel. Ini juga sama, dua-duanya harus terpenuhi. 
+  <br>\n  Nah, diketahui bahwa Pejantan Tangguh berkaki lima dan tulus. 
+  <br>\n  Artinya, Pejantan Tangguh gak memenuhi syarat 1 maupun syarat 2. Maka itu, kesimpulan yang benar 
+  <br>\n  adalah Pejantan Tangguh tidak memenuhi persyaratan.\n</p>\n",
+ :template-id "d2826da0448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "570b1c67468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk naik kereta: 
+   <br>\n  memiliki tinggi badan 160 cm atau lebih dan tidak tertarik dengan K-POP. 
+   <br>\n  Jika Sakura memiliki tinggi badan 160 cm atau lebih, maka Sakura memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[false "Valid" 0] [true "Tidak valid " 1]],
+  :jawaban "B"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. 
+  <br>\nNah itu artinya, kalo mau naik kereta, suatu entitas harus 
+  <br>\nmemiliki tinggi badan 160 cm atau lebih dan harus tidak tertarik dengan K-POP. Dua-duanya harus terpenuhi. 
+  <br>\nDi infonya kita tau bahwa Sakura baru memenuhi salah satunya doang. 
+  <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. 
+  <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Nobita memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e3468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n\nBerikut adalah persyaratan untuk menjadi suaminya: 
+   <br>\nsetia dan memiliki rambut atau <br>\nsayang ibu dan sedikit bandel 
+   <br>\nJika Jean memiliki rambut dan sayang ibu, <br>\nmaka jean memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[false "Valid " 0] [true " Tidak valid" 1]],
+  :jawaban "B"},
+ :bahas
+ "\n\n<p>\n  Jadi, di persyaratannya kita bisa liat bahwa untuk menjadi suaminya, 
+  <br>\n  suatu entitas harus memenuhi seenggaknya salah satu di antara dua kondisi ini: 
+  <br>\n  1. Dia setia dan memiliki rambut. Dua-duanya harus terpenuhi nih. 
+  <br>\n  ATAU <br>\n  2. Dia sayang ibu dan sedikit bandel. Ini juga sama, dua-duanya harus terpenuhi. 
+  <br>\n  Nah, diketahui bahwa Momos memiliki rambut dan sayang ibu. 
+  <br>\n  Artinya, jean gak memenuhi syarat 1 maupun syarat 2. Maka itu, kesimpulan yang benar 
+  <br>\n  adalah jean tidak memenuhi persyaratan.\n</p>\n",
+ :template-id "d2826da0448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "570b1c72468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk membeli motor: 
+   <br>\n  tahu minimal 3 judul lagu Daerah Indonesia dan tidak tertarik dengan K-POP. 
+   <br>\n  Jika Budi tahu minimal 3 judul lagu Daerah Indonesia, maka Budi memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[true "Tidak valid " 0] [false "Valid" 1]],
+  :jawaban "A"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. 
+  <br>\nNah itu artinya, kalo mau membeli motor, suatu entitas harus 
+  <br>\ntahu minimal 3 judul lagu Daerah Indonesia dan harus tidak tertarik dengan K-POP. Dua-duanya harus terpenuhi. 
+  <br>\nDi infonya kita tau bahwa Budi baru memenuhi salah satunya doang. 
+  <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. 
+  <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Budi memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e5468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n Banjir bisa terjadi hanya jika penumpukan sampah dan kenaikan suhu bumi terjadi. 
+   <br>\n Apabila penumpukan sampah tidak terjadi, apakah banjir bisa terjadi?  \n\n</p>\n\n",
+  :options [[true "Tidak banjir tidak bisa terjadi " 0] [false "Ya, banjir bisa terjadi" 1]],
+  :jawaban "A"},
+ :bahas
+ "\n\n<p>\n\n Menurut informasinya, banjir bisa terjadi hanya jika penumpukan sampah dan kenaikan suhu bumi terjadi. jika kita modelkan dengan implikasi, jadinya : jika P=banjir bisa terjadi maka Q=penumpukan sampah dan kenaikan suhu bumi terjadi.
+ Lalu Kalau penumpukan sampah atau kenaikan suhu bumi engga terjadi bagaimana? itu artinya Q-nya ternegasikan, karen dan disitu berarti harus terjadi dua duanya untuk memenuhi premisnya.
+ Jadi, kesimpulannya dalah P-nya ternegasikan juga, kan kalao P pasti Q. jadi, kalau sudah jelas enggak Q nya ya kesimpulannya enggap P <br>\n \n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e5468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk diterima di kampus Zenius: 
+   <br>\n  memiliki tinggi badan 160 cm atau lebih dan lahir di bulan Januari. 
+   <br>\n  Jika Maimunah memiliki tinggi badan 160 cm atau lebih, maka Maimunah memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[false "Valid" 0] [true "Tidak valid " 1]],
+  :jawaban "B"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. 
+  <br>\nNah itu artinya, kalo mau diterima di kampus Zenius, suatu entitas harus 
+  <br>\nmemiliki tinggi badan 160 cm atau lebih dan harus lahir di bulan Januari. Dua-duanya harus terpenuhi. 
+  <br>\nDi infonya kita tau bahwa Maimunah baru memenuhi salah satunya doang. 
+  <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. 
+  <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Maimunah memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e441468611eba53b81e59324e143"}
+ ]

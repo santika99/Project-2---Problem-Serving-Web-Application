@@ -1,0 +1,46 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: rgb(126, 14, 126);
+}
+
+h1 {
+    text-align: center;
+}
+
+
+.card {
+	margin: 90px 17px 0 17px;
+	width: 70%;
+	background-color: rgba(182, 92, 182, 0.432);
+	border-radius: 15px;
+	padding: 30px 30px;
+	margin-top: 90px;
+	margin-left: 50px;
+}
+
+
+.card img {
+    width: 250px;
+    height: 130px;
+	border-radius: 10px;
+
+}
+
+.card button {
+	outline: 0;
+	padding: 10px;
+	color: rgb(252, 248, 252);
+	background-color:rgb(54, 1, 54);
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 20px;
+	border-radius: 10px;
+
+}
+
+
+
