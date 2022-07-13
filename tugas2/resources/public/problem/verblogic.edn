@@ -18,9 +18,9 @@
   <br>\n  Nah, diketahui bahwa Melati takut badut dan tulus. 
   <br>\n  Artinya, Melati gak memenuhi syarat 1 maupun syarat 2. Maka itu, kesimpulan yang benar 
   <br>\n  adalah Melati tidak memenuhi persyaratan.\n</p>\n",
- :template-id "d2826da0448e11eba53b81e59324e143",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
  :topic :logic,
- :problem-id "570b1c66468611eba53b81e59324e143"}
+ :problem-id "5699e441468611eba53b81e59324e143"}
 {:soal
  {:soal-text
   "\n<p>\n\n Diketehui: <br>\n Ada baju yang pecah <br><br>\n Yang ekuivalen dengan pernyataan tersebut adalah..."
@@ -34,9 +34,9 @@
    <br>\n So, balik kesoal nih..
    Kita dapat informasi, ada baju yang pecah. Mana kondisi yang kalo informasinya benar PASTI benar? Ya ada yang pecah yang adalah baju dong.
    \n<p>\n\n",
- :template-id "d2826da0448e11eba53b81e59324e143",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
  :topic :logic,
- :problem-id "570b1c66468611eba53b81e59324e143"}
+ :problem-id "5699e441468611eba53b81e59324e143"}
 {:soal
  {:soal-text
   "\n<p>\n  Berikut adalah persyaratan untuk menjadi kaya: 
@@ -53,7 +53,7 @@
   <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Unyil memenuhi persyaratan.\n\n</p>\n",
  :template-id "d27a7e60448e11eba53b81e59324e143",
  :topic :logic,
- :problem-id "5699e3e1468611eba53b81e59324e143"}
+ :problem-id "5699e441468611eba53b81e59324e143"}
 {:soal
  {:soal-text
   "\n<p>\n\nBerikut adalah persyaratan untuk menjual bakso: 
@@ -70,9 +70,9 @@
   <br>\n  Nah, diketahui bahwa Pejantan Tangguh berkaki lima dan tulus. 
   <br>\n  Artinya, Pejantan Tangguh gak memenuhi syarat 1 maupun syarat 2. Maka itu, kesimpulan yang benar 
   <br>\n  adalah Pejantan Tangguh tidak memenuhi persyaratan.\n</p>\n",
- :template-id "d2826da0448e11eba53b81e59324e143",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
  :topic :logic,
- :problem-id "570b1c67468611eba53b81e59324e143"}
+ :problem-id "5699e441468611eba53b81e59324e143"}
 {:soal
  {:soal-text
   "\n<p>\n  Berikut adalah persyaratan untuk naik kereta: 
@@ -89,7 +89,7 @@
   <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Nobita memenuhi persyaratan.\n\n</p>\n",
  :template-id "d27a7e60448e11eba53b81e59324e143",
  :topic :logic,
- :problem-id "5699e3e3468611eba53b81e59324e143"}
+ :problem-id "5699e441468611eba53b81e59324e143"}
 {:soal
  {:soal-text
   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi suaminya: 
@@ -105,9 +105,9 @@
   <br>\n  Nah, diketahui bahwa Momos memiliki rambut dan sayang ibu. 
   <br>\n  Artinya, jean gak memenuhi syarat 1 maupun syarat 2. Maka itu, kesimpulan yang benar 
   <br>\n  adalah jean tidak memenuhi persyaratan.\n</p>\n",
- :template-id "d2826da0448e11eba53b81e59324e143",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
  :topic :logic,
- :problem-id "570b1c72468611eba53b81e59324e143"}
+ :problem-id "5699e441468611eba53b81e59324e143"}
 {:soal
  {:soal-text
   "\n<p>\n  Berikut adalah persyaratan untuk membeli motor: 
@@ -124,7 +124,7 @@
   <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Budi memenuhi persyaratan.\n\n</p>\n",
  :template-id "d27a7e60448e11eba53b81e59324e143",
  :topic :logic,
- :problem-id "5699e3e5468611eba53b81e59324e143"}
+ :problem-id "5699e441468611eba53b81e59324e143"}
 {:soal
  {:soal-text
   "\n<p>\n Banjir bisa terjadi hanya jika penumpukan sampah dan kenaikan suhu bumi terjadi. 
@@ -137,7 +137,7 @@
  Jadi, kesimpulannya dalah P-nya ternegasikan juga, kan kalao P pasti Q. jadi, kalau sudah jelas enggak Q nya ya kesimpulannya enggap P <br>\n \n\n</p>\n",
  :template-id "d27a7e60448e11eba53b81e59324e143",
  :topic :logic,
- :problem-id "5699e3e5468611eba53b81e59324e143"}
+ :problem-id "5699e441468611eba53b81e59324e143"}
 {:soal
  {:soal-text
   "\n<p>\n  Berikut adalah persyaratan untuk diterima di kampus Zenius: 
@@ -155,4 +155,104 @@
  :template-id "d27a7e60448e11eba53b81e59324e143",
  :topic :logic,
  :problem-id "5699e441468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk naik pesawat: <br>\n  pernah bolos sekolah dan lahir di bulan Januari. <br>\n  Jika Hantu pernah bolos sekolah, maka Hantu memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[false "Valid" 0] [true "Tidak valid " 1]],
+  :jawaban "B"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. <br>\nNah itu artinya, kalo mau naik pesawat, suatu entitas harus <br>\npernah bolos sekolah dan harus lahir di bulan Januari. Dua-duanya harus terpenuhi. <br>\nDi infonya kita tau bahwa Hantu baru memenuhi salah satunya doang. <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Hantu memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e0468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk menjadi miss universe: <br>\n  jago matematika dan tidak pernah sen kanan belok kiri. <br>\n  Jika Unyil jago matematika, maka Unyil memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[false "Valid" 0] [true "Tidak valid " 1]],
+  :jawaban "B"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. <br>\nNah itu artinya, kalo mau menjadi miss universe, suatu entitas harus <br>\njago matematika dan harus tidak pernah sen kanan belok kiri. Dua-duanya harus terpenuhi. <br>\nDi infonya kita tau bahwa Unyil baru memenuhi salah satunya doang. <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Unyil memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e1468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk menjadi presiden: <br>\n  makan buburnya diaduk dan tidak pernah sen kanan belok kiri. <br>\n  Jika Squidward makan buburnya diaduk, maka Squidward memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[false "Valid" 0] [true "Tidak valid " 1]],
+  :jawaban "B"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. <br>\nNah itu artinya, kalo mau menjadi presiden, suatu entitas harus <br>\nmakan buburnya diaduk dan harus tidak pernah sen kanan belok kiri. Dua-duanya harus terpenuhi. <br>\nDi infonya kita tau bahwa Squidward baru memenuhi salah satunya doang. <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Squidward memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e2468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk naik pesawat: <br>\n  memiliki tinggi badan 160 cm atau lebih dan tidak tertarik dengan drakor. <br>\n  Jika Nobita memiliki tinggi badan 160 cm atau lebih, maka Nobita memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[false "Valid" 0] [true "Tidak valid " 1]],
+  :jawaban "B"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. <br>\nNah itu artinya, kalo mau naik pesawat, suatu entitas harus <br>\nmemiliki tinggi badan 160 cm atau lebih dan harus tidak tertarik dengan drakor. Dua-duanya harus terpenuhi. <br>\nDi infonya kita tau bahwa Nobita baru memenuhi salah satunya doang. <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Nobita memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e3468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk menjadi presiden: <br>\n  berkulit hijau muda dan lahir di bulan Januari. <br>\n  Jika Nobita berkulit hijau muda, maka Nobita memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[true "Tidak valid " 0] [false "Valid" 1]],
+  :jawaban "A"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. <br>\nNah itu artinya, kalo mau menjadi presiden, suatu entitas harus <br>\nberkulit hijau muda dan harus lahir di bulan Januari. Dua-duanya harus terpenuhi. <br>\nDi infonya kita tau bahwa Nobita baru memenuhi salah satunya doang. <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Nobita memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e4468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk membeli ikan cupang: <br>\n  tahu minimal 5 judul sinetron Indonesia dan tidak tertarik dengan drakor. <br>\n  Jika Ucup tahu minimal 5 judul sinetron Indonesia, maka Ucup memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[true "Tidak valid " 0] [false "Valid" 1]],
+  :jawaban "A"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. <br>\nNah itu artinya, kalo mau membeli ikan cupang, suatu entitas harus <br>\ntahu minimal 5 judul sinetron Indonesia dan harus tidak tertarik dengan drakor. Dua-duanya harus terpenuhi. <br>\nDi infonya kita tau bahwa Ucup baru memenuhi salah satunya doang. <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Ucup memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e5468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk pulang kampung: <br>\n  pernah bolos sekolah dan tidak pernah mendorong pintu bertuliskan pull/tarik. <br>\n  Jika Memed pernah bolos sekolah, maka Memed memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[true "Tidak valid " 0] [false "Valid" 1]],
+  :jawaban "A"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. <br>\nNah itu artinya, kalo mau pulang kampung, suatu entitas harus <br>\npernah bolos sekolah dan harus tidak pernah mendorong pintu bertuliskan pull/tarik. Dua-duanya harus terpenuhi. <br>\nDi infonya kita tau bahwa Memed baru memenuhi salah satunya doang. <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Memed memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e6468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk pulang kampung: <br>\n  jago masak dan tidak pernah sen kanan belok kiri. <br>\n  Jika Maimunah jago masak, maka Maimunah memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[false "Valid" 0] [true "Tidak valid " 1]],
+  :jawaban "B"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. <br>\nNah itu artinya, kalo mau pulang kampung, suatu entitas harus <br>\njago masak dan harus tidak pernah sen kanan belok kiri. Dua-duanya harus terpenuhi. <br>\nDi infonya kita tau bahwa Maimunah baru memenuhi salah satunya doang. <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Maimunah memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e7468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk diterima di kampus impian: <br>\n  jago masak dan tidak tertarik dengan drakor. <br>\n  Jika Squidward jago masak, maka Squidward memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[true "Tidak valid " 0] [false "Valid" 1]],
+  :jawaban "A"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. <br>\nNah itu artinya, kalo mau diterima di kampus impian, suatu entitas harus <br>\njago masak dan harus tidak tertarik dengan drakor. Dua-duanya harus terpenuhi. <br>\nDi infonya kita tau bahwa Squidward baru memenuhi salah satunya doang. <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Squidward memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e8468611eba53b81e59324e143"}
+{:soal
+ {:soal-text
+  "\n<p>\n  Berikut adalah persyaratan untuk menikahi dia: <br>\n  tidak pernah bohong dan tidak pernah masuk angin. <br>\n  Jika Mbakyul tidak pernah bohong, maka Mbakyul memenuhi persyaratan.\n\n</p>\n\n",
+  :options [[true "Tidak valid " 0] [false "Valid" 1]],
+  :jawaban "A"},
+ :bahas
+ "\n\n<p>\n\nCoba liat yak di soalnya itu kan ada kata \"dan\" di antara kedua syarat. <br>\nNah itu artinya, kalo mau menikahi dia, suatu entitas harus <br>\ntidak pernah bohong dan harus tidak pernah masuk angin. Dua-duanya harus terpenuhi. <br>\nDi infonya kita tau bahwa Mbakyul baru memenuhi salah satunya doang. <br>\nSyarat satunya lagi gimana? Gatauu, gak ada informasinya. <br>\nMaka itu, kita gak bisa narik kesimpulan bahwa Mbakyul memenuhi persyaratan.\n\n</p>\n",
+ :template-id "d27a7e60448e11eba53b81e59324e143",
+ :topic :logic,
+ :problem-id "5699e3e9468611eba53b81e59324e143"}
  ]
